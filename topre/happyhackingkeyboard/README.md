@@ -1,7 +1,7 @@
 # Happy Hacking Keyboard
 
-Keyboard website: https://happyhackingkb.com/
-Company website: https://www.pfu.fujitsu.com/en/products/hhkb.html
+* Keyboard website: https://happyhackingkb.com/
+* Company website: https://www.pfu.fujitsu.com/en/products/hhkb.html
 
 ## Understanding the HHKB model number
 
@@ -40,7 +40,6 @@ HHKB also offer a silent model keyboard which add a `S` to the end of the model 
 #### Serial Number PD-KB500J
 
 This keyboard was a limited edition made by PFU to celebrate the 10th Anniversary of the keyboard.
-In this particular model, the keycaps were coated using a [Wajima Lacquer Technique](https://wajimanuri.or.jp/)
+In this particular model, the keycaps were coated using a [Wajima Lacquer Technique](https://wajimanuri.or.jp/).
 
 For more information about this keyboard please see: http://www.pfu.fujitsu.com/hhkeyboard/hhkbprohg/hg_j.html
-
