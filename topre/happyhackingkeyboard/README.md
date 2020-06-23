@@ -3,6 +3,10 @@
 * Keyboard website: https://happyhackingkb.com/
 * Company website: https://www.pfu.fujitsu.com/en/products/hhkb.html
 
+## Keyboard Directory
+
+My current HHKB keyboard directory is available [here](./directory.md)
+
 ## Understanding the HHKB model number
 
 The HHKB keyboard all have the same type of serial number
