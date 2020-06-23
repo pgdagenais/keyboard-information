@@ -1,11 +1,12 @@
 # Keyboard Information
 
-In this repository I will try to track down all of the keyboard that I currently own.
+This repo is used for all the keyboard information that I want to share.
 
-The keyboards will be separated by switch type. At the moment I only have [Topre](https://deskthority.net/wiki/Topre_switch) keyboard.
-If I have any object that is also related to the keyboard company, I will also add it to the said list.
+## Directory
 
-This repo will also serve me to save good link that I would like to share/save.
+In this repo I will create a directory of all of the keyboard that I currently own.
+
+If I have any object that is also related to the keyboard and/or company, they  will also be added to the directory.
 
 
 ## Adding a new keyboard
