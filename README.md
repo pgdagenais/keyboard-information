@@ -1,4 +1,4 @@
-# Personnal Keyboard History
+# Keyboard Information
 
 In this repository I will try to track down all of the keyboard that I currently own.
 
@@ -7,6 +7,17 @@ If I have any object that is also related to the keyboard company, I will also a
 
 This repo will also serve me to save good link that I would like to share/save.
 
+
+## Adding a new keyboard
+
+All keyboard should be added using this template:
+
+```
+Model Name:
+Model Number:
+Serial Number:
+Production Date:
+```
 
 # TODO
 
